@@ -135,6 +135,14 @@ img {
   border-bottom: var(--primary-color) 4px solid;
 }
 
+#tab-2 {
+    border-bottom: var(--primary-color) 4px solid;
+  }
+
+  #tab-3 {
+    border-bottom: var(--primary-color) 4px solid;
+  }
+
 /*Tab content*/
 /* hide content intially*/
 #tab-1-content,
@@ -179,11 +187,12 @@ img {
   text-align: center;
 }
 /*Table style*/
-.table {
-  width: 100%;
+.table-bg {
+    width: 100%;
   margin-top: 2rem;
   border-collapse: collapse;
   border-spacing: 0;
+  background-color: #000000 !important;
 }
 
 .table thead th {
