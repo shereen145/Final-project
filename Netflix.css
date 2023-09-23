@@ -131,17 +131,10 @@ img {
   cursor: pointer;
 }
 
-#tab-1 {
+.tab-border{
   border-bottom: var(--primary-color) 4px solid;
 }
 
-#tab-2 {
-    border-bottom: var(--primary-color) 4px solid;
-  }
-
-  #tab-3 {
-    border-bottom: var(--primary-color) 4px solid;
-  }
 
 /*Tab content*/
 /* hide content intially*/
